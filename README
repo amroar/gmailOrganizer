@@ -1,0 +1,3 @@
+Enable the Gmail API: from Google Developers Console, create a new project, and enable the Gmail API.
+Create OAuth Credentials: Under the "Credentials" section, create OAuth 2.0 credent
+Make sure your credentials.json is in the same directory as your script.
